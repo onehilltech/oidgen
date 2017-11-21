@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+const bson = require ('bson');
+console.log (bson.ObjectId ());

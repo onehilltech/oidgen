@@ -1,0 +1,20 @@
+{
+  "name": "oidgen",
+  "version": "0.1.0",
+  "description": "Command-line utility for generating an object id",
+  "bin": {
+    "oidgen": "./bin/oidgen"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "object-id",
+    "generate"
+  ],
+  "author": "One Hill Technologies, LLC",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bson": "^1.0.4"
+  }
+}
