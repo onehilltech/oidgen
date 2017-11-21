@@ -1,5 +1,5 @@
 {
-  "name": "oidgen",
+  "name": "objectid-gen",
   "version": "1.0.0",
   "description": "Command-line utility for generating an object id",
   "bin": {

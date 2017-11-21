@@ -9,7 +9,7 @@ Command-line tool for generating an ObjectId
 Installation
 --------------
 
-    npm install -g oidgen
+    npm install -g objectid-gen
     
 Getting Started
 ----------------
